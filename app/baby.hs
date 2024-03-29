@@ -7,4 +7,4 @@ doubleSmallNumber x =
     then x
     else x * 2
 
--- main = putStrLn "Hello, world!"
+main = putStrLn "Hello, world!"
